@@ -1,4 +1,4 @@
-# TCL Android battery fixes
+# TCL sleep mode fix
 
 Notes from reverse-engineering TCL's power management, plus a no-root fix for its sleep mode.
 
